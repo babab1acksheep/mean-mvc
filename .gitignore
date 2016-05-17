@@ -1,0 +1,7 @@
+.project
+.settings
+node_modules/
+client/libs/
+*.class
+*.pyc
+*.pyo
